@@ -201,19 +201,3 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 ---
 
-## Authors
-
-Repo forked from the V3 made by:
- * MJ Johnson, [@mj31508](https://github.com/mj31508)
- * David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
- * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
- * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
- * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-
-V4 made by:
- * Laura Roudge, [lroudge](https://github.com/lroudge) | [@LRoudge](https://twitter.com/LRoudge) | [/in/lauraroudge](https://www.linkedin.com/in/lauraroudge/): Full-stack Software Engineer, passionate about helping and teachings peers, located in the Paris area, France.
- * Nga La, [sungnga](https://github.com/sungnga) | [@_ngala](https://twitter.com/_ngala)
-
-## License
-
-MIT License
